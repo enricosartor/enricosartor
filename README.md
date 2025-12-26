@@ -6,7 +6,7 @@ Right now I’m working on **partially observable stochastic optimal control**, 
 
 ## Quick links
 - 🌐 Website: https://enricosartor.github.io/
-- 📄 CV: https://enricosartor.github.io/shortcv/cv-enrico-sartor.pdf
+- 📄 CV: https://enricosartor.github.io/shortcv/
 - ✉️ Email: enrico.sartor@centralesupelec.fr
 
 ## Topics I like
