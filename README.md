@@ -1,4 +1,4 @@
-# Hi, I’m Enrico 👋
+# Hi, I’m Enrico Sartor 👋
 
 I’m a PhD student in Applied Mathematics at Université Paris-Saclay / L2S.
 
