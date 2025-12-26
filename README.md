@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Enrico 👋
 
-<!--
-**enricosartor/enricosartor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a PhD student in Applied Mathematics at Université Paris-Saclay / L2S.
 
-Here are some ideas to get you started:
+Right now I’m working on **partially observable stochastic optimal control**, especially problems where you can **choose when to observe** (information acquisition) and how this connects with **learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick links
+- 🌐 Website: https://enricosartor.github.io/
+- 📄 CV: https://enricosartor.github.io/shortcv/cv-enrico-sartor.pdf
+- ✉️ Email: enrico.sartor@centralesupelec.fr
+
+## Topics I like
+- Optimal control (PDE/SDE), filtering, HJB & PMP  
+- Optimal transport & Wasserstein geometry (mean-field control)  
+- RL / ML foundations
+
+If you’d like to collaborate or chat about any of this, feel free to reach out!
+
