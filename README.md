@@ -10,7 +10,7 @@ Right now I’m working on **partially observable stochastic optimal control**, 
 - ✉️ Email: enrico.sartor@centralesupelec.fr
 
 ## Topics I like
-- Optimal control (PDE/SDE), filtering, HJB & PMP  
+- Optimal control (PDE/SDE), filtering, HJB and  PMP  
 - Optimal transport & Wasserstein geometry (mean-field control)  
 - RL / ML foundations
 
